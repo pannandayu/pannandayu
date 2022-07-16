@@ -21,6 +21,10 @@ These are links to my repo:
 - [Another data visualization](https://github.com/pannandayu/Simple_DataVisualization)
 - [Data cleaning about google play store dataset](https://github.com/pannandayu/DataCleaning-Processing_GooglePlayStore)
 
+Another portfolio
+- [Kaggle](https://www.kaggle.com/pannandalikoyu/code)
+- [Tableau](https://public.tableau.com/app/profile/pannanda)
+
 Contact me personally at:
 - 👨 LinkedIn: Pannanda Liko Yu
 - 📧 E-mail: pannandayu@gmail.com
