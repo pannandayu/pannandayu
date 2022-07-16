@@ -21,6 +21,6 @@ These are links to my repo:
 - [Another data visualization](https://github.com/pannandayu/Simple_DataVisualization)
 - [Data cleaning about google play store dataset](https://github.com/pannandayu/DataCleaning-Processing_GooglePlayStore)
 
-Contact:
+Contact me personally at:
 - 👨 LinkedIn: Pannanda Liko Yu
 - 📧 E-mail: pannandayu@gmail.com
