@@ -6,6 +6,7 @@ Welcome to my GitHub portfolio, where I pave and share my data findings publicly
 Please note that I am still on the learning process, so It is pretty far from OK. If you guys find anything weird or unsettling just contact me ok! 😄 (with job vacancy of course--duh!)
 
 These are links to my repo:
+- [Time-series forecasting about rice production](https://github.com/pannandayu/RiceProduction_TimeSeriesForecasting)
 - [Web scraping about stock prices](https://github.com/pannandayu/WebScrapingProject_StockPrice)
 - [SQL mini-project about creating a company](https://github.com/pannandayu/SQLProject_FictionCompany)
 - [Internship project about donation forecasting](https://github.com/pannandayu/InternshipProject_DonationForecasting)
