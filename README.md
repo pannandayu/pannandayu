@@ -33,7 +33,7 @@ These are links to my repo:
   - [Worldwide happiness score (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/WorldHappiness_16577053194030/Dashboard1)
   - [Vehichles sold around the world over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/VehiclesSoldAroundTheWorld_16577056155350/Sheet2)
   - [US revenue grouped by expansion (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/USRevenue/Sheet2)
-  - [C02 emission over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/CO2Emission_16577050994300/Sheet1)
+  - [C02 emission over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/CO2Emission_16577050994300/Dashboard1)
 
 Another portfolio:
 - [Kaggle](https://www.kaggle.com/pannandalikoyu/code)
