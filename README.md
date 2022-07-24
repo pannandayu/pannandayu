@@ -37,6 +37,7 @@ These are links to my repo:
 
 Another portfolio:
 - [Kaggle](https://www.kaggle.com/pannandalikoyu/code)
+- [Tableau Profile](https://public.tableau.com/app/profile/pannanda#!/)
 
 Contact me personally at:
 - 👨 LinkedIn: Pannanda Liko Yu
