@@ -28,12 +28,12 @@ These are links to my repo:
   - [SQL mini-project about creating a company](https://github.com/pannandayu/SQLProject_FictionCompany)
 
     Dashboard Data Viz (GDS & Tableau):
-  - [Forecasting - internship dashboard data viz using GDS](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
-  - [Fictional company sales and meeting point using Tableau](https://public.tableau.com/authoring/FictionalCompanySalesTarget/Sheet1#1)
-  - [Worldwide happiness score using Tableau](https://public.tableau.com/app/profile/pannanda/viz/WorldHappiness_16577053194030/Dashboard1)
-  - [Vehichles sold around the world over years](https://public.tableau.com/app/profile/pannanda/viz/VehiclesSoldAroundTheWorld_16577056155350/Sheet2)
-  - [US revenue grouped by expansion](https://public.tableau.com/app/profile/pannanda/viz/USRevenue/Sheet2)
-  - [C02 emission over years](https://public.tableau.com/app/profile/pannanda/viz/CO2Emission_16577050994300/Sheet1)
+  - [Forecasting - internship dashboard data viz (GDS)](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
+  - [Fictional company sales and meeting point (Tableau)](https://public.tableau.com/authoring/FictionalCompanySalesTarget/Sheet1#1)
+  - [Worldwide happiness score (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/WorldHappiness_16577053194030/Dashboard1)
+  - [Vehichles sold around the world over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/VehiclesSoldAroundTheWorld_16577056155350/Sheet2)
+  - [US revenue grouped by expansion (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/USRevenue/Sheet2)
+  - [C02 emission over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/CO2Emission_16577050994300/Sheet1)
 
 Another portfolio:
 - [Kaggle](https://www.kaggle.com/pannandalikoyu/code)
