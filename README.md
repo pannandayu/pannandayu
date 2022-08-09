@@ -28,6 +28,7 @@ These are links to my repo:
   - [SQL mini-project about creating a company](https://github.com/pannandayu/SQLProject_FictionCompany)
   - [SQL mini-project about finding insights about avocados sales](https://github.com/pannandayu/avocados_sql)
   - [SQL mini-project about finding insights about amazon books](https://github.com/pannandayu/amazon_books)
+  - [SQL mini-project about coffee shop analyzing](https://github.com/pannandayu/SQL_CoffeeShopAnalysis/tree/main)
 
     Dashboard Data Viz (GDS & Tableau):
   - [Forecasting - internship dashboard data viz (GDS)](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
