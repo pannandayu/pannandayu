@@ -1,4 +1,4 @@
-# Me, Myself, and I
+# A Synopsis About Me
 Hello folks! I am Pannanda, an aspiring data scientist/data analyst/business intelligence.
 
 Welcome to my GitHub portfolio, where I pave and share my data findings publicly. Feel free to stroll around the block.
