@@ -32,7 +32,7 @@ These are links to my repo:
   - [SQL mini-project about expedition/cargo analyzing](https://github.com/pannandayu/SQL_ExpeditonShipping)
 
 `Dashboard Data Viz (GDS & Tableau)`
-  - [Forecasting - internship dashboard data viz (GDS)](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
+  - [Forecasting - internship dashboard data viz (Google Data Studio)](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
   - [Fictional company sales and meeting point (Tableau)](https://public.tableau.com/authoring/FictionalCompanySalesTarget/Sheet1#1)
   - [Worldwide happiness score (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/WorldHappiness_16577053194030/Dashboard1)
   - [Vehichles sold around the world over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/VehiclesSoldAroundTheWorld_16577056155350/Sheet2)
