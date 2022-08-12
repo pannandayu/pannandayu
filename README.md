@@ -40,7 +40,7 @@ These are links to my repo:
   - [C02 emission over years (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/CO2Emission_16577050994300/Dashboard1)
   - [Order Return Analysis (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/AnalyzingOrderReturn/Dashboard1)
   - [Shipment Duration Analysis (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/OrderShippingAnalysis/Dashboard1)
-  - [Coffee Shop Analysis](https://public.tableau.com/app/profile/pannanda/viz/CoffeeShopAnalysis_16600290495830/Dashboard1)
+  - [Coffee Shop Analysis (Tableau)](https://public.tableau.com/app/profile/pannanda/viz/CoffeeShopAnalysis_16600290495830/Dashboard1)
 
 `Another portfolio`
 - [Kaggle](https://www.kaggle.com/pannandalikoyu/code)
