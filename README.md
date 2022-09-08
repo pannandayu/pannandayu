@@ -22,6 +22,7 @@ These are links to my repo:
   - [Data visualization about The Office Series](https://github.com/pannandayu/DataVisualization_TheOffice)
   - [Data visualization about indonesia's population and investment portfolio growth](https://github.com/pannandayu/Simple_DataVisualization)
   - [Data cleaning about google play store dataset](https://github.com/pannandayu/DataCleaning-Processing_GooglePlayStore)
+  - [Credit Approvals Prediction/Classification](https://github.com/pannandayu/CreditApprovals_Prediction/tree/main)
   
 `SQL`
   - [SQL mini-project about finding insights from fictional store](https://github.com/pannandayu/SQL_Exercise_StoreAttributes/tree/main)
