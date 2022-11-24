@@ -32,6 +32,7 @@ These are links to my repo:
   - [SQL mini-project about coffee shop analyzing](https://github.com/pannandayu/SQL_CoffeeShopAnalysis/tree/main)
   - [SQL mini-project about expedition/cargo analyzing](https://github.com/pannandayu/SQL_ExpeditonShipping)
   - [SQL mini-project about analyzing Citibike trips June 2013](https://github.com/pannandayu/SQL_CitiBike)
+  - [SQL mini-project about analyzing revenue, net profit, and gross profit of a restaurant](https://github.com/pannandayu/SQL_Order_Restaurant)
 
 `Dashboard Data Viz (GDS & Tableau)`
   - [Forecasting - internship dashboard data viz (Google Data Studio)](https://datastudio.google.com/reporting/19c78da4-4a85-4b05-9c04-71d0e4a1cac5)
